@@ -1,7 +1,7 @@
 basic:
-    name: Conn-Kirlin
+    name: 'Torp, Bailey and Waters'
     environments:
-        production: 'https://www.jaskolski.com/hic-adipisci-quasi-illo-rerum'
+        production: 'https://www.wyman.com/et-velit-in-veniam-ut-aut'
         staging: ''
         development: ''
     breakpoints:
