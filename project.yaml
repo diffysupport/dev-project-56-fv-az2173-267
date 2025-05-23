@@ -1,7 +1,7 @@
 basic:
-    name: 'Torp, Bailey and Waters'
+    name: 'Trantow and Sons'
     environments:
-        production: 'https://www.wyman.com/et-velit-in-veniam-ut-aut'
+        production: 'https://www.barrows.info/repellendus-similique-praesentium-veniam-dignissimos-facere'
         staging: ''
         development: ''
     breakpoints:
@@ -24,9 +24,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: single-site
